@@ -64,3 +64,23 @@ console.log(valor1 > valor2 && valor2 < 10);
 console.log(valor2 >100 || valor1 <10);
 console.log(valor1 == valor2);
 console.log(valor2 === valor1)
+
+//exercicios
+
+let p=10;
+let v=3;
+let precofinal = p - v;
+console.log(precofinal);
+
+//exercicio2
+
+let a=20
+let b=10
+console.log(a === 20 && b >= 10);
+
+
+//exercicio3
+
+let usuario = true;
+let token = "bahia"
+console.log(usuario==true & token!=null)
